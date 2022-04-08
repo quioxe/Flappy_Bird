@@ -1,2 +1,2 @@
 # Flappy_Bird
-Mon jeu Flappy Bird Basique mais aussi personnalisé
+I create this Flappy Bird game just for learning to code.
